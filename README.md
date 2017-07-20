@@ -3,7 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-# Testing stuff locally 
+## Table of Contents
+- [Running locally](#running-the-project-locally)
+- [Deployment](#deployment)
+
+
+## Running the project locally
 
 > Local = just on your computer
 
@@ -32,7 +37,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](#deployment) for more information.
 
-# Deploying
+# Deployment
 
 Whenever code is pushed to the **master** branch, Travis CI (CI = continuous integration) will automatically deploy the project using Heroku.
 
