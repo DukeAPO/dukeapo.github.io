@@ -11,3 +11,6 @@ deploy:
   provider: heroku
   api_key:
     secure: cb8c6928-d1fd-4ab2-8235-efbf85457825
+  app: dukeapolandingpage
+  on:
+    repo: DukeAPO/landing-page
