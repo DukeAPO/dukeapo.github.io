@@ -1,0 +1,13 @@
+sudo: false
+language: node_js
+node_js:
+- '6'
+cache:
+  directories:
+  - node_modules
+install:
+- npm install
+deploy:
+  provider: heroku
+  api_key:
+    secure: cb8c6928-d1fd-4ab2-8235-efbf85457825
