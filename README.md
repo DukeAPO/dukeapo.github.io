@@ -10,7 +10,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Project organization
 
-Rather than grouping files by type, we'll group by feature. So everything for the "About" section will live in the same folder (HTML, CSS, images, etc.) and all the sections appearing on the Home screen will be in the same home folder.
+Rather than grouping files by type, we'll **group by feature**. So everything for the "About" section will live in the same folder (HTML, CSS, images, etc.) and all the sections appearing on the Home screen will be in the same home folder.
 
 For more info, this [Medium article](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) is a good read.
 
