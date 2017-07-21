@@ -10,7 +10,7 @@ install:
 deploy:
   provider: heroku
   api_key:
-    secure: cb8c6928-d1fd-4ab2-8235-efbf85457825
+    secure: ajdLTbRVZWnTPDHeLP2D2mUHu2n1A/UQEWYvONKZZTZcWaRNlykv0/k8vPJvkO+NVYZ3iuFl7EneWiqRYPgFuqE/Mt2PWoyKZgZdU3rxiNr+3gSUkaoaIQCfeVZg8iJVFMh78BYvel0x+RDzZ9jEcPljFzVW+s1UKTydAbqEadlOKayrnWhQJA5p/Kuj+Liw0ijNuQ/EYsqFGjOuDHdJ/Hcy5JJUGkwdXInxjAzX8LN7RiaVfmK9dI/bUpxr9UCEtQcoabebsf3sA28YwcXNGS5g4GSV0GiW4JnXQScT7Qz4G5hAKRPJYayOqlMd6ZoPb7Lh3Ob74LmYI5sZJ0Md/3MHl4sWjiZx7wLsdAhI1HzZvLhzpuHNa4OWX7SQvqkgXPHKCFdPfvmsvNwhhUtlM7BSCbDJ4Q12gRX+arH6oyPvgmWK0J0qBppJIO1VND5QjVV++Hn9nrJJ2ArDW41URmu2muc/JoledPFKafWs930yoYIybJZzfEuG27BFb5cTH3js+ziodb7B9iOA5ScQtfTFhZjklxIDyDLuQwr5eI9hHL0cG2A5RKoX1fAM38HNFkXIeXTslR/8axCVe1xIj7NYS8oKr33AGkhHd7sft35CCm5BYxnoV6tpjwK30jsOG6VP4nyVkJgd193io1Im+SjeOEhcQhN7XyUUSDTc4d0=
   app: dukeapolandingpage
   on:
     repo: DukeAPO/landing-page
